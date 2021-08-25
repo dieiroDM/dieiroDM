@@ -1,19 +1,14 @@
-### Hi there 👋
+DOMINGOS DIEIRO MIGUEL
+=======
 
-<!--
-**dieiroDM/dieiroDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I live in Angola 🇦🇴, Luanda 🌴
+* I have been working at Home as backend developer 🖥️
+* I have been learnig more about Python 🐍 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Python and C#
+- ⚡ Fun fact: I'm a student 👨‍🎓 
 
 ### Connect with me
 <a href="https://www.facebook.com/dieiroDM" target="_blank">
